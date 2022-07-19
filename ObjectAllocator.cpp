@@ -3,7 +3,7 @@
  \file ObjectAllocator.cpp
  \author name: Afrina Saragih
  \par    email: a.reimansaragih@digipen.edu
- \par    DigiPen login:a.reimansaragih
+ \par    64e6adaf
  \par    Course: CS280
  \par    Assignment #1
  \date   27/05/2022
